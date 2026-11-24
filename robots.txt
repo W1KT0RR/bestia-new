@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://w1kt0rr.github.io/bestia-new/sitemap.xml
